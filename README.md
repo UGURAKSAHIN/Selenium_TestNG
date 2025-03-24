@@ -1,3 +1,17 @@
-# SeleniumTestNG
+# Automated Web Testing with TestNG
 
-This project is an application where the URL address determined by different methods with testNG frameworks is visited and the site is logged in with a valid username and password, then the payment process is completed and the order is finalized.
+📌 Project Overview
+
+✅ Visits a specified URL based on different test methods.
+✅ Logs into the website with valid credentials.
+✅ Completes the payment process and finalizes the order.
+
+🛠️ Technologies Used
+
+-Java – Programming language
+
+-TestNG – Test automation framework
+
+-Selenium WebDriver – Browser automation
+
+-Maven – Build and dependency management
